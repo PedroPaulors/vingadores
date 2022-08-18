@@ -13,20 +13,18 @@ h1{
 }
 
 .media-picture{
-    height: 400px;
-    background-size: cover;
+    height: 1000px;
     background-position: top;
-
+    background-size: cover;
+    background-image: url("../img/os-vingadores-filme-1.webp");
+   
 }
 
-img{
-    width: 100%;
-}
 
 .review-score{
    color: white;
    background-color: #e6bd09;
-   padding: 12px;
+   
 }
 
 h2{
